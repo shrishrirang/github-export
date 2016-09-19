@@ -1,6 +1,6 @@
 {
   "name": "github-export",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exports github issues",
   "main": "download.js",
   "scripts": {
