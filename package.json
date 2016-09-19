@@ -1,0 +1,23 @@
+{
+  "name": "github-export",
+  "version": "1.0.0",
+  "description": "Exports github issues",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "export",
+    "download",
+    "save",
+    "github",
+    "issues"
+  ],
+  "author": "Shrirang Shirodkar",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "yargs": "^5.0.0"
+  }
+}

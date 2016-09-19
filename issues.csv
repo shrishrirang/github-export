@@ -1,0 +1,31 @@
+id,milestone,title,issueUrl
+197,no milestone,"Update repository to be truly commonjs compatible",https://github.com/azure/azure-mobile-apps-js-client/issues/197
+196,2.0.0-GA,"TypeScript Warning",https://github.com/azure/azure-mobile-apps-js-client/issues/196
+195,no milestone,"Support React Native",https://github.com/azure/azure-mobile-apps-js-client/issues/195
+194,no milestone,"update Cordova Google OAuth for pending WebView/InAppBrowser deprecation",https://github.com/azure/azure-mobile-apps-js-client/issues/194
+193,no milestone,"invokeApi fails with React Native on Android",https://github.com/azure/azure-mobile-apps-js-client/issues/193
+192,2.0.0-GA,"Top level module should just export client constructor",https://github.com/azure/azure-mobile-apps-js-client/issues/192
+191,no milestone,"Improve web platform getSdkInfo",https://github.com/azure/azure-mobile-apps-js-client/issues/191
+189,no milestone,"Fix unit tests",https://github.com/azure/azure-mobile-apps-js-client/issues/189
+185,no milestone,"Error raised by cancelled login should be an Error object",https://github.com/azure/azure-mobile-apps-js-client/issues/185
+182,html-2.0.0-rc1,"Change name of built source file in /dist folder",https://github.com/azure/azure-mobile-apps-js-client/issues/182
+181,html-2.0.0-rc1,"Add .npmignore",https://github.com/azure/azure-mobile-apps-js-client/issues/181
+180,2.0.0-GA,"Update README",https://github.com/azure/azure-mobile-apps-js-client/issues/180
+178,no milestone,"Implement math and date querying",https://github.com/azure/azure-mobile-apps-js-client/issues/178
+175,cordova-2.0.1,"cancelAndUpdate, cancelAndDiscard, etc methods should be available without having to push",https://github.com/azure/azure-mobile-apps-js-client/issues/175
+171,cordova-2.0.2,"Update MobileServiceSqliteStore.del(query) to delete records using a single SQL statement",https://github.com/azure/azure-mobile-apps-js-client/issues/171
+165,no milestone,"Login promise with federated AD doesn't resolve (or throw error)",https://github.com/azure/azure-mobile-apps-js-client/issues/165
+164,2.0.0-GA,"Improve error messages",https://github.com/azure/azure-mobile-apps-js-client/issues/164
+162,cordova-2.0.1,"Allow multiple pull operations to run concurrently",https://github.com/azure/azure-mobile-apps-js-client/issues/162
+160,no milestone,"invokeApi() should return a JSON object, not an XMLHttpRequest",https://github.com/azure/azure-mobile-apps-js-client/issues/160
+158,html-2.0.0-rc1,"Require non minimized version of the JS client SDK when using ES6 imports",https://github.com/azure/azure-mobile-apps-js-client/issues/158
+155,cordova-2.0.2,"Add a way to specify global configuration",https://github.com/azure/azure-mobile-apps-js-client/issues/155
+154,cordova-2.0.2,"Add a UT to test that would break if default location of store changes",https://github.com/azure/azure-mobile-apps-js-client/issues/154
+153,cordova-2.0.1,"Add method to query pending operation count",https://github.com/azure/azure-mobile-apps-js-client/issues/153
+152,cordova-2.0.2,"Sqlite store should provide API for querying db file path",https://github.com/azure/azure-mobile-apps-js-client/issues/152
+146,no milestone,"logout() is not working",https://github.com/azure/azure-mobile-apps-js-client/issues/146
+144,cordova-2.0.2,"Operation lock state and the operation value should be persisted",https://github.com/azure/azure-mobile-apps-js-client/issues/144
+142,cordova-2.0.1,"Sqlite store should allow more than 999 columns",https://github.com/azure/azure-mobile-apps-js-client/issues/142
+141,cordova-2.0.1,"SyncTable.read() should allow odata queries",https://github.com/azure/azure-mobile-apps-js-client/issues/141
+138,html-2.0.1,"Fix querying server tables by date",https://github.com/azure/azure-mobile-apps-js-client/issues/138
+137,cordova-2.0.1,"Provide hooks to modify records in the request and response while performing a push / pull",https://github.com/azure/azure-mobile-apps-js-client/issues/137
